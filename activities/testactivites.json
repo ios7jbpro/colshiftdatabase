@@ -4,10 +4,15 @@
     "activity": "com.android.settings.WebViewImplementation",
     "name": "testname"
   },
-    {
+  {
     "app": "com.android.egg",
     "activity": "com.android.egg.paint.PaintActivity",
     "name": "low budget paint app"
+  },
+  {
+    "app": "com.android.settings",
+    "activity": "com.android.settings.Settings$ManageApplicationsActivity",
+    "name": "miui apps test"
   },
   {
     "app": "com.android.egg",
