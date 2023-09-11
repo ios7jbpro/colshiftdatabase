@@ -3,5 +3,10 @@
     "app": "com.android.settings",
     "activity": "com.android.settings.WebViewImplementation",
     "name": "testname"
+  },
+  {
+    "app": "com.android.settings",
+    "activity": "com.android.settings.AAAAAAAAAAAAAAAAAAAAAAA",
+    "name": "crashtest"
   }
 ]
