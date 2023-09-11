@@ -2,5 +2,9 @@
   {
    "category": "MIUI 14",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/MIUI14/miui14.json"
-   }
+   },
+  {
+   "category": "Shadow Geometry",
+   "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/ShadowGeometry/shadowgeometry.json"
+   } 
 ]
