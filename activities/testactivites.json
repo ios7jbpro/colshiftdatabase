@@ -1,0 +1,7 @@
+[
+  {
+    "app": "com.android.settings",
+    "activity": "com.android.settings.WebViewImplementation",
+    "name": "testname"
+  }
+]
