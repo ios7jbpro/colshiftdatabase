@@ -10,14 +10,9 @@
     "name": "App Manager"
   },
   {
+    "name": "Clear Speaker",
     "app": "com.android.settings",
-    "activity": "com.android.settings.display.ScreenEnhanceEngineMemcActivity",
-    "name": "MEMC"
-  },
-  {
-    "name": "AI HDR Enhancement",
-    "app": "com.android.settings",
-    "activity": "com.android.settings.display.ScreenEnhanceEngineS2hActivity"
+    "activity": "com.android.settings.Settings$SpeakerSettingsActivity"
   },
   {
     "name": "AI Image Engine",
@@ -25,9 +20,9 @@
     "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
   },
   {
-    "name": "AI Image Enhancement",
+    "name": "MIUI Performance Mode",
     "app": "com.android.settings",
-    "activity": "com.android.settings.display.ScreenEnhanceEngineAiActivity"
+    "activity": "com.android.settings.fuelgauge.PowerModeSettings"
   },
   {
     "app": "com.qti.qualcomm.deviceinfo",
