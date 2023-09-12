@@ -34,6 +34,21 @@
     "activity": "com.android.settings.fuelgauge.PowerModeSettings",
     "name": "MIUI Performance Mode"
   },
+    {
+    "app": "com.miui.securitycenter",
+    "activity": "com.miui.powercenter.nightcharge.NightChargeSettings",
+    "name": "Optimized Charging"
+  },
+  {
+    "app": "com.android.permissioncontroller",
+    "activity": "com.android.permissioncontroller.role.ui.DefaultAppListActivity",
+    "name": "AOSP Default App List"
+  },
+  {
+    "app": "com.miui.notification",
+    "activity": "miui.notification.management.activity.settings.AggregateSettingActivity",
+    "name": "Aggregate Notifications"
+  },
   {
     "app": "com.android.settings",
     "activity": "com.android.settings.UsageStatsActivity",
