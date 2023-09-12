@@ -15,6 +15,11 @@
     "activity": "com.android.settings.Settings$SpeakerSettingsActivity"
   },
   {
+    "name": "MIUI Music Player",
+    "app": "miui.systemui.plugin",
+    "activity": "miui.systemui.miplay.MiPlayDetailActivity"
+  },
+  {
     "name": "AI Image Engine",
     "app": "com.android.settings",
     "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
