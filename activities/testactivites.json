@@ -15,6 +15,21 @@
     "name": "MEMC"
   },
   {
+    "name": "AI HDR Enhancement",
+    "app": "com.android.settings",
+    "activity": "com.android.settings.display.ScreenEnhanceEngineS2hActivity"
+  },
+  {
+    "name": "AI Image Engine",
+    "app": "com.android.settings",
+    "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
+  },
+  {
+    "name": "AI Image Enhancement",
+    "app": "com.android.settings",
+    "activity": "com.android.settings.display.ScreenEnhanceEngineAiActivity"
+  },
+  {
     "app": "com.qti.qualcomm.deviceinfo",
     "activity": "com.qti.qualcomm.deviceinfo.DeviceInfo",
     "name": "Device Info"
