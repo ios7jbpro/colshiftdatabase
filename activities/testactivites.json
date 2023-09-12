@@ -37,7 +37,7 @@
     {
     "app": "com.miui.securitycenter",
     "activity": "com.miui.powercenter.nightcharge.NightChargeSettings",
-    "name": "Optimized Charging"
+    "name": "Optimized charging"
   },
   {
     "app": "com.android.permissioncontroller",
