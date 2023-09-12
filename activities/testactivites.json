@@ -11,33 +11,33 @@
   },
   {
     "app": "com.android.settings",
-    "name": "Clear Speaker",
     "activity": "com.android.settings.Settings$SpeakerSettingsActivity"
+    "name": "Clear Speaker",
   },
   {
     "app": "miui.systemui.plugin",
-    "name": "MIUI Music Player",
     "activity": "miui.systemui.miplay.MiPlayDetailActivity"
+    "name": "MIUI Music Player",
   },
   {
     "app": "com.xiaomi.misettings",
-    "name": "Anti-Flicker Mode",
     "activity": "com.xiaomi.misettings.display.AntiFlickerMode.AntiFlickerActivity"
+    "name": "Anti-Flicker Mode",
   },
   {
     "app": "com.android.settings",
+    "activity": "com.android.settings.display.ScreenEnhanceEngineActivity" 
     "name": "AI Image Engine",
-    "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
   },
   {
     "app": "com.android.settings",
-    "name": "MIUI Performance Mode",
     "activity": "com.android.settings.fuelgauge.PowerModeSettings"
+    "name": "MIUI Performance Mode",
   },
   {
     "app": "com.android.settings",
-    "name": "Usage Stats",
     "activity": "com.android.settings.UsageStatsActivity"
+    "name": "Usage Stats",
   },
   {
     "app": "com.qti.qualcomm.deviceinfo",
