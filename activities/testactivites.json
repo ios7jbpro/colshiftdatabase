@@ -10,6 +10,11 @@
     "name": "App Manager"
   },
   {
+    "app": "com.android.settings",
+    "activity": "com.android.settings.display.ScreenEnhanceEngineMemcActivity",
+    "name": "MEMC"
+  },
+  {
     "app": "com.android.egg",
     "activity": "com.android.egg.widget.PaintChipsActivity",
     "name": "Monet Colors"
