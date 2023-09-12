@@ -10,23 +10,28 @@
     "name": "App Manager"
   },
   {
-    "name": "Clear Speaker",
     "app": "com.android.settings",
+    "name": "Clear Speaker",
     "activity": "com.android.settings.Settings$SpeakerSettingsActivity"
   },
   {
-    "name": "MIUI Music Player",
     "app": "miui.systemui.plugin",
+    "name": "MIUI Music Player",
     "activity": "miui.systemui.miplay.MiPlayDetailActivity"
   },
   {
-    "name": "AI Image Engine",
+    "app": "com.miui.securitycenter",
+    "name": "Shutdown Confirmation",
+    "activity": "com.miui.permcenter.settings.ShutDownPasswordActivity"
+  },
+  {
     "app": "com.android.settings",
+    "name": "AI Image Engine",
     "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
   },
   {
-    "name": "MIUI Performance Mode",
     "app": "com.android.settings",
+    "name": "MIUI Performance Mode",
     "activity": "com.android.settings.fuelgauge.PowerModeSettings"
   },
   {
