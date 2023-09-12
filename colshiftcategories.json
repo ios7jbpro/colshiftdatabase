@@ -2,25 +2,10 @@
   {
    "category": "MIUI 14",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/MIUI14/miui14.json"
-   },
-  {
-   "category": "Shadow Geometry",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/ShadowGeometry/shadowgeometry.json"
-   },
-  {
-   "category": "Natural Texture",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/NaturalTexture/naturaltexture.json"
-   },
-  {
-   "category": "Macaron",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/Macaron/macaron.json"
-   },
-  {
-   "category": "Colored Glaze",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/ColoredGlaze/coloredglaze.json"
-   },
-  {
-   "category": "Crystallization",
    "link": "https://raw.githubusercontent.com/ios7jbpro/colshiftdatabase/main/wallpapers/MIUI/Crystallization/crystallization.json"
-   } 
+   }
 ]
