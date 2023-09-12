@@ -15,6 +15,11 @@
     "name": "MEMC"
   },
   {
+    "app": "com.qti.qualcomm.deviceinfo",
+    "activity": "com.qti.qualcomm.deviceinfo.DeviceInfo",
+    "name": "Device Info"
+  },
+  {
     "app": "com.android.egg",
     "activity": "com.android.egg.paint.PaintActivity",
     "name": "Paint"
