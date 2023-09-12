@@ -25,11 +25,6 @@
     "activity": "com.xiaomi.misettings.display.AntiFlickerMode.AntiFlickerActivity"
   },
   {
-    "app": "com.miui.securitycenter",
-    "name": "Shutdown Confirmation",
-    "activity": "com.miui.permcenter.settings.ShutDownPasswordActivity"
-  },
-  {
     "app": "com.android.settings",
     "name": "AI Image Engine",
     "activity": "com.android.settings.display.ScreenEnhanceEngineActivity"
