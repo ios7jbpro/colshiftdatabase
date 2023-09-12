@@ -1,8 +1,8 @@
 [
   {
-    "app": "com.android.egg",
-    "activity": "com.android.egg.paint.PaintActivity",
-    "name": "Paint"
+    "app": "com.miui.cit",
+    "activity": "com.miui.cit.home.HomeActivity",
+    "name": "CIT"
   },
   {
     "app": "com.android.settings",
@@ -13,6 +13,11 @@
     "app": "com.android.settings",
     "activity": "com.android.settings.display.ScreenEnhanceEngineMemcActivity",
     "name": "MEMC"
+  },
+  {
+    "app": "com.android.egg",
+    "activity": "com.android.egg.paint.PaintActivity",
+    "name": "Paint"
   },
   {
     "app": "com.android.egg",
