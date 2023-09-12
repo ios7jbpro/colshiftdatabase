@@ -20,6 +20,11 @@
     "activity": "miui.systemui.miplay.MiPlayDetailActivity"
   },
   {
+    "app": "com.xiaomi.misettings",
+    "name": "Anti-Flicker Mode",
+    "activity": "com.xiaomi.misettings.display.AntiFlickerMode.AntiFlickerActivity"
+  },
+  {
     "app": "com.miui.securitycenter",
     "name": "Shutdown Confirmation",
     "activity": "com.miui.permcenter.settings.ShutDownPasswordActivity"
@@ -33,6 +38,11 @@
     "app": "com.android.settings",
     "name": "MIUI Performance Mode",
     "activity": "com.android.settings.fuelgauge.PowerModeSettings"
+  },
+  {
+    "app": "com.android.settings",
+    "name": "Usage Stats",
+    "activity": "com.android.settings.UsageStatsActivity"
   },
   {
     "app": "com.qti.qualcomm.deviceinfo",
